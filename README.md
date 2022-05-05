@@ -1,5 +1,8 @@
 # AngularLeafletStarter
 
+using interactive maps in your Angular application definitely Leaflet is a great choice. It’s open, easy to integrate with, and has strong community support.
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.6.
 
 ## Development server
