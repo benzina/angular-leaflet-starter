@@ -2,6 +2,14 @@
 
 using interactive maps in your Angular application definitely Leaflet is a great choice. It’s open, easy to integrate with, and has strong community support.
 
+This app will be rather simple. What we need is a map with a text input box, the results list, and the form with map point name and coordinates.
+
+We would need the following components:
+
+MapComponent – which will contain a Leaflet map, it will be the master component
+GeocodingComponent – which will handle geocoding input and API integration
+ResultsListComponent – which will handle results from geocoding API
+MapPointFormComponent – which will contain information about selected map point
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.6.
 
